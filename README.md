@@ -68,7 +68,7 @@ Please ensure your code follows the existing style and includes relevant tests w
 For questions or feedback, reach out to Nuriel Gadilov:
 
 - Email: nurielprivet@gmail.com
-- LinkedIn: [Nuriel Gadilov](https://www.linkedin.com/in/nurielgad/)
+- LinkedIn: [Nuriel Gadilov](https://www.linkedin.com/in/nuriel-gadilov-66b99a320/)
 
 ---
 
